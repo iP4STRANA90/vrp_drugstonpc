@@ -4,6 +4,9 @@ by.iPastrana90
 # vrp_drugstonpc
 Original creator: https://github.com/onlyserenity/drugsToNPCs
 
+https://i.imgur.com/ONJZ0Af.jpeg
+https://i.imgur.com/RDOj7I3.jpg
+
 Tested with vRP 2.0 TheCat
 
 Key to sell is "H", you can change on line 55 the (1, 74) to whatever control you want.
